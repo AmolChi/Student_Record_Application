@@ -4,6 +4,7 @@ It is a Java based Application, staged on Swing for graphics and integrated with
 This will run on a local client's device. To set up the application you should change the credentials of the mySQL client and then the application will run smoothly
 
 Screen Shots
+
 ![image](https://github.com/AmolChi/Student_Record_Application/assets/75240926/bef0f3c2-108f-4bcd-8819-f020572c3345)
 
 ![image](https://github.com/AmolChi/Student_Record_Application/assets/75240926/e96a953c-b7ad-48ed-8923-bae6f0e6109e)
